@@ -10,10 +10,14 @@ In this log I will reverse engineer and explain how I hopefully succeed to fit t
 
 The main idea is to link the aux (short for auxiliary) battery with a parallel connection directly onto the main battery cord that connects to the hood junction box. I need the aux battery to be linked in parallel with the main battery in 3 use states: 1) driving, 2) OBC charging and 3) DC charging
 
+
 In short:
   - [x] Buy an used EV HV cord
+  - [ ] Before I start modifying the used EV HV cord, I should probably check whether it is possible to order the opposing plugs online. This will make it possible to put a spacer cord between the EV HV cord end plug and the hood junction box, easily providing parallel access to the main battery.
   - [ ] Connect a thin wire from which I can check that the battery is connected in all three use states.
   - [ ] Put the modified EV HV cord into the car
+
+
 
 ## Phase 2: Dummy battery
 
