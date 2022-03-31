@@ -41,6 +41,6 @@ In short:
 
 ## Phase ?: Cooling the battery on long trips
 
-## Phase ?: Heating the battery at norwegian winter temperatures
+## Phase ?: Heating the battery in Norwegian winter temperatures
 
 
