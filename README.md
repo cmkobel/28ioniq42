@@ -13,7 +13,7 @@ The main idea is to link the aux (short for auxiliary) battery with a parallel c
 In short:
   - [x] Buy an used EV HV cord
   - [ ] Connect a thin wire from which I can check that the battery is connected in all three use states.
-  - [ ]
+  - [ ] Put the modified EV HV cord into the car
 
 ## Phase 2: Dummy battery
 
