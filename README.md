@@ -8,7 +8,7 @@ In this log I will reverse engineer and explain how I hopefully succeed to fit t
 
 ## Phase 1: Validate concept
 
-The main idea is to link the aux (short for auxiliary) battery with a parallel connection directly onto the main battery cord that connects to the junction box. I need the aux battery to be linked in parallel with the main battery in 3 use states: 1) driving, 2) OBC charging and 3) DC charging
+The main idea is to link the aux (short for auxiliary) battery with a parallel connection directly onto the main battery cord that connects to the hood junction box. I need the aux battery to be linked in parallel with the main battery in 3 use states: 1) driving, 2) OBC charging and 3) DC charging
 Make sure that accessing the main power rail is possible by parallel coupling the main battery cord.
 The main 
 
