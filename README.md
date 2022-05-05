@@ -28,10 +28,15 @@ In short:
   - [ ] Connect a heavy gauge wire that is able to handle full current. The EPCU is able to demand 248A at peak acceleration (88kW), and since the aux battery will have a capacity half of the main battery, the heavy gauge aux wire should be able to withstand one third which is about 82A. 
   - [ ] Run this wire to the trunk of the car.
 
-## Phase 3: Buy a used ioniq 2017-2019 28kWh battery
+## Phase 3: Buy a salvaged ioniq 2017-2019 28kWh battery
 
 
   - [ ] Disassemble individual cells
+
+
+## Phase 4: Reconfigure the salvaged battery into a 14kWh trunk application
+
+  - [ ] Build a sheet metal-rivets assembled fireproof box and throw in the 96 cells.
 
 ## Phase 4: BMS (Battery Management System)
 
