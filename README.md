@@ -14,7 +14,14 @@ The main idea is to link the aux (short for auxiliary) battery with a parallel c
 In short:
   - [x] Buy an used EV HV cord
   - [x] Before I start modifying the used EV HV cord, I should probably check whether it is possible to order the opposing plugs online. This will make it possible to put a spacer cord between the EV HV cord end plug and the hood junction box, easily providing parallel access to the main battery: Doesn't seem to be possible.
-  - [ ] Connect a thin wire from which I can check that the battery is connected in all three use states.
+
+#### Test voltage on evhv line
+- [ ] Make a test-mod evhv line 
+- [ ] Before mounting on car, test that the polarity is the same as the original cable.
+- [ ] Connect a thin wire from which I can check that the battery is connected in all three use states.
+- [ ] Check that the test-modified
+
+
   - [ ] Make a modified EV HV cord and put it into the car
 
 
